@@ -1,0 +1,1 @@
+Telegram tool for replying only. This tool allows you to send unlimited text replies via a Telegram BOT using User ID only. Simply input the User ID of the recipient and start sending your messages without any restrictions. Enjoy!
